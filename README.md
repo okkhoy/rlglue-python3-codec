@@ -1,4 +1,35 @@
-rlglue-python-codec
-===================
+=================================
+RL-Glue Python Codec User README
+=================================
 
-Python3.x version codec for RL-Glue library
+This is a modification of Python codec for RL-Glue library to run in Python3
+
+----------------------------
+THIS DISTRIBUTION (USER)
+----------------------------
+This is the user distribution, which means it does not come with the source code for the manual, etc.
+----------------------------
+LICENSE
+----------------------------
+This project is licensed under the Apache 2 license. Check LICENSE-2.0.txt for more info. To paraphrase, you can use this code how you see fit.
+
+----------------------------
+User Documentation
+----------------------------
+For full details about this codec and how it works, please check out the manual, PythonCodec.pdf, in this same directory.
+
+
+----------------------------
+Quick Install
+----------------------------
+The quick way to install this codec is to do:
+>$ cd src
+>$ python setup.py install
+
+Additional information is available at the project's home page:
+http://glue.rl-community.org/Home/Extensions/python-codec
+
+-- 
+Brian Tanner
+btanner@rl-community.org
+
